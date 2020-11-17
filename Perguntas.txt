@@ -1,0 +1,35 @@
+Uma model pode conter request e response ? 
+
+
+Uma view pode conter uma tela um web e tambem uma tela de app console por exemplo do swing? 
+
+
+Atualmente estamos api com rest nós podemos utilizar na view algo diferente disso?
+
+
+
+A model ela corresponse o nosso banco de dados ou aconteceria ao contrario? 
+
+
+Qual seria a funcionalidade da controller para view?
+
+
+Como o padrão de projeto mvc pode ser implementado em todos os casos e problemas que formos receber?
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
